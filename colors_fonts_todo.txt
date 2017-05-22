@@ -1,0 +1,11 @@
+
+Base16 colors
+
+git clone https://github.com/chriskempson/base16-shell.git ~/.config/base16-shell
+
+git clone https://github.com/chriskempson/base16-gnome-terminal.git ~/.config/base16-gnome-terminal
+source ~/.config/base16-gnome-terminal/base16-default.dark.sh
+
+Fonts
+
+https://github.com/powerline/fonts
